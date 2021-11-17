@@ -10,7 +10,7 @@ discord_Id = sys.argv[1]
 
 url = 'https://discord.id/'
 
-driver = webdriver.Chrome(executable_path=r'../_Chrome-Driver/chromedriver.exe')
+driver = webdriver.Chrome(executable_path=r'chromedriver.exe')
 driver.set_window_position(50, 50)
 driver.set_window_size(800, 600)
 driver.implicitly_wait(10) # seconds
