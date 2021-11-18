@@ -1,6 +1,6 @@
 # Discord_PB_Yoinker
 
-<h2>Instalation der Library</2>
+<h2>Instalation der Library</h2>
 - pip install selenium
 
 Dieses Python Programm giebt die den Link des Profilbildes eienes Users mitels Discord-Id zurück. 
