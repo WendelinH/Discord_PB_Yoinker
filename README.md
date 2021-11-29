@@ -1,10 +1,10 @@
 # Discord_PB_Yoinker
 
-<h2>Installation der Library</h2>
-- pip install selenium <br>
+## Installation der Library
+- pip install selenium
 - pip install webbrowser
 
-<h2>Discord_Id Kopieren und verwenden</h2>
+## Discord_Id Kopieren und verwenden
 Dieses Python Programm giebt die den Link des Profilbildes eienes Users mitels Discord-Id zurück. 
 
 Discord-Id einens Users herausfinden.
