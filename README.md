@@ -1,7 +1,7 @@
 # Discord_PB_Yoinker
 
 <h2>Instalation der Library</h2>
-- pip install selenium
+- pip install selenium <br>
 - pip install webbrowser
 
 <h2>Discord_Id Kopieren und verwenden</h2>
