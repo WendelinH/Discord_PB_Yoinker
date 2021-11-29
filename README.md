@@ -1,6 +1,6 @@
 # Discord_PB_Yoinker
 
-<h2>Instalation der Library</h2>
+<h2>Installation der Library</h2>
 - pip install selenium <br>
 - pip install webbrowser
 
