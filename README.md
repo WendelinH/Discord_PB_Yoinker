@@ -2,6 +2,7 @@
 
 <h2>Instalation der Library</h2>
 - pip install selenium
+- pip install webbrowser
 
 <h2>Discord_Id Kopieren und verwenden</h2>
 Dieses Python Programm giebt die den Link des Profilbildes eienes Users mitels Discord-Id zurück. 
