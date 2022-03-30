@@ -10,9 +10,13 @@ discord_Id = sys.argv[1]
 
 url = 'https://discord.id/'
 
-driver = webdriver.Chrome(executable_path=r'chromedriver.exe')
-driver.set_window_position(50, 50)
-driver.set_window_size(800, 600)
+chrome_options = webdriver.ChromeOptions()
+chrome_options.add_argument('headless')
+chrome_options.add_argument("disable-gpu")
+
+driver = webdriver.Chrome(executable_path=r'chromedriver.exe', chrome_options=chrome_options)
+#driver.set_window_position(50, 50)
+#driver.set_window_size(800, 600)
 driver.implicitly_wait(10) # seconds
 driver.get(url)
 
